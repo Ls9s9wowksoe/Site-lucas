@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cartão Virtual</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <img src="perfil.jpg" alt="Foto de Perfil" class="profile-img">
+    <h1>Lucas Santana</h1>
+    <p>Criador de conteúdo</p>
+    
+    <a href="https://wa.me/5511999999999" class="whatsapp-btn" target="_blank">Falar no WhatsApp</a>
+    
+    <div class="social-icons">
+      <a href="https://instagram.com/seuusuario" target="_blank">
+        <img src="instagram.png" alt="Instagram">
+      </a>
+      <a href="https://youtube.com/seucanal" target="_blank">
+        <img src="youtube.png" alt="YouTube">
+      </a>
+    </div>
+  </div>
+</body>
+</html>
